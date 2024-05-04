@@ -4,7 +4,7 @@ import PageContent from "./PageContent";
 export default function Layout() {
   return (
     <>
-      <div className="drawer lg:drawer-open">
+      <div className="drawer">
         <input
           id="left-sidebar-drawer"
           type="checkbox"
